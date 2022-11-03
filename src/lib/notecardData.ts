@@ -1,3 +1,5 @@
+export {}
+
 // export async function fetchNotecardData(startDate?: number) {
 //   interface dataProps {
 //     [file: string]: any;
